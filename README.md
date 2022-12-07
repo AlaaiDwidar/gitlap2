@@ -1,2 +1,3 @@
 # gitlap2
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png~1~)
+
+![Screenshot (55)](https://user-images.githubusercontent.com/99266660/206193295-417deb34-d547-48e4-93e0-6fd6c0c8d3de.png)
